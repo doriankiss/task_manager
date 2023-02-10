@@ -1,0 +1,23 @@
+Total number of users registered with task_manager.py: 3
+Total number of tasks that have been generated and tracked using task_manager.py: 5
+
+User: admin:
+Number of tasks assigned to admin: 1
+Percentage of total number of tasks, which have been assigned to admin: 20.0
+Percentage of tasks assigned to admin which are complete: 0.0
+Percentage of tasks assigned to admin which are incomplete: 100.0
+Percentage of tasks assigned to admin which are overdue: 0.0
+
+User: Dorian:
+Number of tasks assigned to Dorian: 2
+Percentage of total number of tasks, which have been assigned to Dorian: 40.0
+Percentage of tasks assigned to Dorian which are complete: 50.0
+Percentage of tasks assigned to Dorian which are incomplete: 50.0
+Percentage of tasks assigned to Dorian which are overdue: 0.0
+
+User: John:
+Number of tasks assigned to John: 2
+Percentage of total number of tasks, which have been assigned to John: 40.0
+Percentage of tasks assigned to John which are complete: 0.0
+Percentage of tasks assigned to John which are incomplete: 100.0
+Percentage of tasks assigned to John which are overdue: 50.0
